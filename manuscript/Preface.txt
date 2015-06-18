@@ -13,8 +13,7 @@ with the system and learned that engineers, not educators, had built it. Martin 
 
 ## A quem este livro é destinado
 
-This book is for people who want to teach a course using Moodle. You can use Moodle to teach a fully online course or to supplement a face-to-face course in a traditional
-setting. It doesn’t matter if you teach at a primary school, a secondary school, in higher education, or in a corporate setting; you can use the tools and features available in Moodle to create an effective class. 
+Este livro é para pessoas que querem ministrar um curso utilizando o Moodle. Você pode utilizar o Moodle para ministrar um curso totalmente online ou para complementar um curso presencial. Não importa se você vai ensinar no ensino fundamental, no ensino superior ou na educação corporativa; você pode utilizar as ferramentas disponíveis no Moodle para criar uma classe efetiva.
 
 ## Pré-requisitos: o que você precisa antes de começar
 
@@ -24,9 +23,9 @@ Ter acesso a um Moodle instalado e configurado em um servidor, como professor em
 
 OU
 
-Você pode baixar o Moodle e instalar no seu computador pessoal (ou pedir para que alguém faça isso para você). Você pode fazer o download da versão mais atual do Moodle em https://download.moodle.org/releases/latest/ e então instalá-lo utilizando as seguintes instruções disponíveis em https://docs.moodle.org/en/Installing_Moodle:
+Você pode baixar e instalar o Moodle no seu computador pessoal (ou pedir para que alguém faça isso para você). Você pode fazer o download da versão mais atual do Moodle em https://download.moodle.org/releases/latest/ e então instalá-lo utilizando as seguintes instruções disponíveis em https://docs.moodle.org/en/Installing_Moodle:
 
-Também é possível fazer o download utilizando o software de controle de versão git, conforme https://docs.moodle.org/29/en/Installing_Moodle
+Também é possível fazer o download Moodle do utilizando o software de controle de versão git, conforme https://docs.moodle.org/en/Git_for_Administrators
 
 Para utilizar as versões recentes do Moodle é recomendado utilizar um navegador atualizado.
 Abaixo você pode ver a lista de navegadores e a versão mínima para utilziar o Moodle
@@ -46,23 +45,23 @@ This book is written for instructors learning how to use Moodle. It’s not just
 The Moodle interface can be customized a great deal. The descriptions and screenshots in this book illustrate the default interface without any customization. If you have
 changed  the  order  of  the  blocks  in  your  course  or  if  the  system  administrator  has changed the look and feel of the main interface, your system will look different from the screenshots here.
 
-Chapter 1 discusses what Learning Management Systems have to offer and what features makes Moodle special for eLearning.
+O capítulo 1 discute o que os Ambientes Virtuais de Ensino Aprendizagem têm a oferecer e quais as características do Moodle o tornam especial para a educação à distância.
 
-Chapter 2 pools all of the disparate tools into a comprehensive whole and shows some of the creative ways in which teachers can use Moodle.
+O capítulo 2 junta todas as diferentes ferramentas em um conjunto e mostra algumas maneiras criativas em que professores podem utilizar o Moodle.
 
-Chapter 3 gets us started using Moodle. We’ll sign up for an account, review the basic interface, get used to some of the conventions, and start a course.
+O capítulo 3 nos inicia no uso do Moodle. Nós vamos criar uma conta, revisar a interface básica, nos acustumar com algumas convenções e iniciar um curso.
 
-Chapter 4 covers how to add static content (named as resource in Moodle) to your course.
+O capítulo 4 mostra como adicionar conteúdos estáticos (chamados pelo Moodle de "recursos") no seu curso.
 
-Chapter 5 delves into Learning Management, including understanding and using roles, arranging students into groups, and how to obtain reports of student activity.
+O capítulo 5 megulha no ambiente de ensino aprendizado, para entender a utilização dos papéis, organizar alunos em grupos e como obter relatórios de atividade dos estudantes.
 
-Chapter 6 gets us familiarized with the text editors in Moodle.
+O capítulo 6 nos familiariza com os editores de texto presentes no Moodle.
 
-Chapter 7 to 18 covers individual tools in the basic Moodle package. We’ll discuss how and when to use forums, hold chat sessions, send messages, give quizzes, set assignments, develop shared glossaries and databases, create pathed lessons, collaboratively develop web pages, create blogs, set up surveys and polls, and record student grades. Each chapter covers how to add the tool to your course, discusses the options available, and gives you some creative ideas for effectively using the tool in your class.
+Os capítulos 7 a 18 tratam individualmente das ferramentas disponível no pacote padrão do Moodle. We’ll discuss how and when to use forums, hold chat sessions, send messages, give quizzes, set assignments, develop shared glossaries and databases, create pathed lessons, collaboratively develop web pages, create blogs, set up surveys and polls, and record student grades. Each chapter covers how to add the tool to your course, discusses the options available, and gives you some creative ideas for effectively using the tool in your class.
 
-Chapter 19 covers how to administer an entire Moodle site. A system administrator usually handles these functions, but if you’re on your own, there’s a lot of power behind the curtain.
+O capítulo 19 mostra como administrar um site Moodle. Geralmente essas funções são executadas por um administrador de sistemas, mas se você está sozinho nesta jornada, existe muito poder atrás das cortinas.
 
-You can use this book in a couple of different ways. First, you can read it cover to cover. Hopefully, you’ll find it so compelling that you won’t be able to put it down until you’ve finished it. Or you can use it like a reference manual. The beginning of each tool chapter covers the how-to’s and the options. If you get lost, flip to the appropriate chapter and take it from the beginning.
+Você pode utilizar este livro de pelo menos duas formas diferentes. First, you can read it cover to cover. Hopefully, you’ll find it so compelling that you won’t be able to put it down until you’ve finished it. Or you can use it like a reference manual. The beginning of each tool chapter covers the how-to’s and the options. If you get lost, flip to the appropriate chapter and take it from the beginning.
 
 ### **Happy Moodling!!!** ###
 
@@ -79,7 +78,7 @@ As seguinte convenções tipográficas são utilizadas neste livro:
 - ![](images/tip-icon.jpg)
 : Utilizado para dicas, sugestões e considerações em geral.
 
-## Agradecimentos
+## Agradecimentos do autor da edição original em inglês
 
 *Jaswinder Singh*: I am indebted to the Jason Cole & Helen Foster for writing the Using Moodle book. The work in this book is based on the Book Using Moodle 2nd Edition and Moodle documentation. I am also indebted to the whole Moodle Community for creating such a nice LMS which is so much popular and especially Martin Dougiamas for creating it. This book is a work of the whole Moodle community who has written the documentation all over the years. 
 
