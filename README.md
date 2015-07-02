@@ -10,6 +10,9 @@ Este repositório contém o diretório
 livro em diferentes formatos através do 
 site de publicação de livros www.leanpub.com
 
+No "branch" "master" está a versão original em inglês,
+no "branch" "pt_br" você encontra a versão em português do Brasil.
+
 Para questões sobre a versão em inglês, veja
 https://github.com/4jassikingg/how-to-use-moodle-27
 
