@@ -2,14 +2,31 @@
 
 ## O que é Moodle
 
-Moodle is an open source Learning Management System (LMS) that universities, community colleges, K–12 schools, businesses, and even individual instructors use to add
-web technology to their courses. More than 30,000 educational organizations around the world currently use Moodle to deliver online courses and to supplement traditional face-to-face courses. Moodle is available for free on the Web (http://www.moodle.org), so anyone can download and install it. More on that later in this preface.
+Moodle é um Ambiente Virtual de Ensino e Aprendizagem (AVEA),
+utilizado por universidades, escolar comunitárias, escolas primárias, empresas
+e também por instrutores independentes para incrementar seus cursos com tecnologias web.
 
-The name Moodle has two meanings. First, it’s an acronym (what isn’t these days?) for Modular Object-Oriented Dynamic Learning Environment. Moodle is also a verb that
-describes the process of lazily meandering through something, doing things as it occurs to you to do them, an enjoyable tinkering that often leads to insight and creativity.
+Mais de 30.000 (trinta mil) organizações educacionais ao redor do mundo usam o Moodle
+para fornecer cursos à distância e também para apoiar cursos presenciais.
+O Moodle está disponível gratuitamente na web (https://moodle.org) de forma que qualquer
+pessoa pode copiar e instalar. Mais instruções sobre isso, logo a frente, neste prefácio.
 
-Moodle was created by Martin Dougiamas, a computer scientist and educator who spent time supporting a LMS at a university in Perth, Australia. He grew frustrated
-with the system and learned that engineers, not educators, had built it. Martin realized that a system built by someone who started with the educational process, rather than an engineering process, would be infinitely better than what he had to work with. He put his postgraduate degrees in Education and Computer Science to work and started developing Moodle as an alternative. Martin now works on Moodle full-time. A community of dedicated open source developers from around the world work with him in a collaborative effort to make Moodle the best LMS available. Martin lives in Australia with his wife, daughter, and son.
+O nome Moodle tem dois significados. Primeiro, um acrônimo (o que não é, hoje em dia?) para
+Modular Object-Oriented Dynamic Learning Environment (ou, em português, Ambiente de aprendizagem
+dinâmico e modular e orientado a objetos).
+Moodle também é um verbo que descreve o ato de navegar preguiçosamente por algum lugar,
+fazendo coisas à medida que vão lhe aparecendo, de uma forma agradável que geralmente leva
+a criatividade e aprendizado.
+
+O Moodle foi criado por Martin Dougiamas, um cientista da computação e educador que empregou algum tempo
+dando suporte ao AVEA de uma universidade em Perth, na Austrália. Ele foi ficando frustrado com o sistema
+e percebeu que ele tinha sido criado por engenheiros e não por educadores. Marting então percebeu que um sistema
+criado por alguém que começou pensando no processo educacional, ao invés de no processo de engenharia,
+seria infinitamente melhor do que aquele sistema com o qual ele precisava trabalhar.
+Com isso, ele colocou seus diplomas de pós-graduação em Educação e Ciência da Computação para trabalhar e começou a 
+desenvolver o Moodle como uma alternativa. Atualmente, Martin trabalha em tempo integral com o Moodle.
+Uma comunidade de desenvolvedores de software livre dedicados ao redor do mundo trabalha com ele num esforço coletivo
+de tornar o Moodle o melhor AVEA disponível. Marting vive na Austrália com sua esposa, filha e filho.
 
 ## A quem este livro é destinado
 
@@ -30,20 +47,24 @@ Também é possível fazer o download Moodle do utilizando o software de control
 Para utilizar as versões recentes do Moodle é recomendado utilizar um navegador atualizado.
 Abaixo você pode ver a lista de navegadores e a versão mínima para utilziar o Moodle
 
-Navegador                   Versão mínima  Versão recomendada Observações
-Google Chrome               30.0           Última 
-Mozilla Firefox             25.0           Última 
-Apple Safari                6              Última 
-Microsoft Internet Explorer 9              Última             Versão 10 é necessária para fazer upload ao arrastar-e-soltar conteúdo de fora do navegador para o Moodle
+|Navegador                  |Versão mínima|Versão recomendada|Observações|
+|---------------------------|-------------|------------------|-----------|
+|Google Chrome              |30.0         |Última            ||
+|Mozilla Firefox            |25.0         |Última            ||
+|Apple Safari               |6            |Última            ||
+|Microsoft Internet Explorer|9            |Última            |Versão 10 é necessária para fazer upload ao arrastar-e-soltar conteúdo de fora do navegador para o Moodle|
 
 Fonte: https://docs.moodle.org/dev/Moodle_2.7_release_notes#Client_requirements
 
 ## Como utilizar este livro
 
-This book is written for instructors learning how to use Moodle. It’s not just a how-to manual, however. Using Moodle won’t make your course better by itself. Only by applying effective educational practices can you truly leverage the power of Moodle.
+Este livro foi escrito para instrutores aprendendo a utilizar o Moodle.  No entanto, ele não é apenas um manual "passo-a-passo".
+Seu curso não será melhor apenas por utilizar o Moodle. Apenas aplicando técnicas educacionais efetivas é que você poderá
+conhecer e utilizar todo o potencial do Moodle.
 
-The Moodle interface can be customized a great deal. The descriptions and screenshots in this book illustrate the default interface without any customization. If you have
-changed  the  order  of  the  blocks  in  your  course  or  if  the  system  administrator  has changed the look and feel of the main interface, your system will look different from the screenshots here.
+A interface do Moodle pode ser altamente personalizada. As descrições e "screenshots" neste livro ilustram a interface padrão,
+sem nenhuma personalização. Se você mudou a ordem dos blocos no seu curso ou se o administrador do sistema mudou
+a aparência da interface principal, seu sistema será um pouco diferente do mostrado nos "screenshots" deste livro.
 
 O capítulo 1 discute o que os Ambientes Virtuais de Ensino Aprendizagem têm a oferecer e quais as características do Moodle o tornam especial para a educação à distância.
 
@@ -80,8 +101,8 @@ As seguinte convenções tipográficas são utilizadas neste livro:
 
 ## Agradecimentos do autor da edição original em inglês
 
-*Jaswinder Singh*: I am indebted to the Jason Cole & Helen Foster for writing the Using Moodle book. The work in this book is based on the Book Using Moodle 2nd Edition and Moodle documentation. I am also indebted to the whole Moodle Community for creating such a nice LMS which is so much popular and especially Martin Dougiamas for creating it. This book is a work of the whole Moodle community who has written the documentation all over the years. 
+*Jaswinder Singh*: Sou grato a Jason Cole e Helen Foster por escreverem o livro "Using Moodle". O trabalho neste livro foi baseado no livro "Using Moodle 2nd Edition" e na documentação do Moodle. Eu sou grato também a toda a comunidade Moodle por ter criado um AVEA tão agradável, que é tão popular, e especialmente ao Martin Dogiamas por tê-lo criado. Este livro é trabalho de toda a comunidade Moodle que escreveu a documentação durante todos estes anos.
 
-I am also indebted to Mr. Jai Gupta at Vidya Mantra EduSystems Pvt. Ltd.and Mr. Vikram Solia at Ballistic Learning for introducing me to Moodle and encouraging me to write this book.
+Eu sou grato também ao Mr. Jai Gupta da Vidya Mantra EduSystems Pvt. Ltd. e ao Mr. Vikram Solia da Ballistic Learning por me apresentarem o Moodle e me encorajar a escrever este livro.
 
-This is my effort to pay the community my small bit of share.
+Esta é minha tentativa de retribuir à comunidade minha pequena parte.
