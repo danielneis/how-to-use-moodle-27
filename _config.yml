@@ -8,6 +8,7 @@
 # Site settings
 title: Como usar o Moodle
 email: danielneis@gmail.com
+email2: willianmanoaraujo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Esta é uma tradução do livro "Como usar o Moodle 2.7",
   escrito por Jaswinder Singh, feita pela comunidade
@@ -18,6 +19,7 @@ baseurl: "/how-to-use-moodle-27" # the subpath of your site, e.g. /blog
 url: "https://danielneis.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  danielneis
+github_username2:  willianmano
 
 # Build settings
 #markdown: kramdown
