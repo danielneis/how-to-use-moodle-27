@@ -1,4 +1,23 @@
-# Dependencies
-markdown:         kramdown
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-source: manuscript
+# Site settings
+title: Como usar o Moodle
+email: danielneis@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Esta é uma tradução do livro "Como usar o Moodle 2.7",
+  escrito por Jaswinder Singh, feita pela comunidade
+  de tradutores do Moodle.org
+  Para mais informações, visite o [https://moodle.org/mod/forum/discuss.php?d=314126](fórum de discussão)
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://danielneis.github.io/how-to-use-moodle-27" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  danielneis
+
+# Build settings
+#markdown: kramdown
