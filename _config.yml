@@ -14,8 +14,8 @@ description: > # this means to ignore newlines until "baseurl:"
   de tradutores do Moodle.org
   Para mais informações, visite o [https://moodle.org/mod/forum/discuss.php?d=314126](fórum de discussão)
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://danielneis.github.io/how-to-use-moodle-27" # the base hostname & protocol for your site
+baseurl: "/how-to-use-moodle-27" # the subpath of your site, e.g. /blog
+url: "https://danielneis.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  danielneis
 
